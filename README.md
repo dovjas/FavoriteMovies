@@ -4,7 +4,7 @@
 <p>Keep track of your favorite movies by adding them to your collection!</p> 
 <p>You can: add movies, delete movies, update movie information, view whole collection, and search for specific movie by name.</p>
 
-This application was written using Python, sqlite3, and tkinter.  
+This application was written by using Python, sqlite3, and tkinter.  
   
 
   
